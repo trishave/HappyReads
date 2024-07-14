@@ -1,0 +1,109 @@
+[
+    {
+       "id": 1 ,
+       "name":"Story Book",
+       "title":"Where the Wild Things Are - Maurice Sendak",
+       "price": 0,
+       "category":"Free",
+       "image":"https://m.media-amazon.com/images/I/A1wx+e0rJ2L._AC_UF1000,1000_QL80_.jpg"
+     
+    },
+
+    {
+        "id": 2 ,
+        "name":"Fantasy",
+        "title":"Harry Potter and the Sorcerer's Stone - J.K. Rowling",
+        "price": 300,
+        "category":"Children's Literature",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSniFrmlY47_Jxp_J4Jojq1mUc_zkVTAcH4Aw&s"
+      
+     },
+
+     {
+        "id": 3 ,
+        "name":"Science Fiction",
+        "title":"Dune - Frank Herbert",
+        "price": 250,
+        "category":"Space Opera",
+        "image":"https://5.imimg.com/data5/SELLER/Default/2022/3/TX/KN/VL/148839554/dune-book.jpg"
+      
+     },
+
+     {
+        "id": 4,
+        "name":"Mystery",
+        "title":"The Girl with the Dragon Tattoo - Stieg Larsson",
+        "price": 300,
+        "category":"Crime Thriller",
+        "image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1622820586i/34594249.jpg"
+      
+     },
+
+     {
+        "id": 5,
+        "name":"Romance",
+        "title":"Pride and Prejudice - Jane Austen",
+        "price": 0,
+        "category":"Free",
+        "image":"https://rukminim2.flixcart.com/image/850/1000/kkec4280/book/d/h/d/pride-prejudice-original-imafzra6pfewjjwb.jpeg?q=90&crop=false"
+      
+     },
+
+     {
+        "id": 6 ,
+        "name":"Horror",
+        "title":"The Shining - Stephen King",
+        "price": 0,
+        "category":"Free",
+        "image":"https://m.media-amazon.com/images/I/815Uhzxve5L._AC_UF1000,1000_QL80_.jpg"
+      
+     },    {
+        "id": 7 ,
+        "name":"Historical Fiction",
+        "title":"All the Light We Cannot See - Anthony Doerr",
+        "price": 400,
+        "category":" World War II Fiction",
+        "image":"https://m.media-amazon.com/images/I/81RBTG28sCL._AC_UF1000,1000_QL80_.jpg"
+      
+     },
+
+     {
+        "id": 8 ,
+        "name":"Non-Fiction",
+        "title":"Sapiens: A Brief History of Humankind - Yuval Noah Harari",
+        "price":200,
+        "category":"History",
+        "image":"https://m.media-amazon.com/images/I/713jIoMO3UL._AC_UF1000,1000_QL80_.jpg"
+      
+     },
+
+     {
+        "id": 9 ,
+        "name":"Thriller",
+        "title":"Gone Girl - Gillian Flynn",
+        "price": 100,
+        "category":"Psychological Thriller",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXQx9i-VqL1w0_AYfSzt06q-U4YVQwuA4E9g&s"
+      
+     },
+
+     {
+        "id": 10 ,
+        "name":"Biography",
+        "title":"Steve Jobs  - Walter Isaacson",
+        "price": 0,
+        "category":"Free",
+        "image":"https://5.imimg.com/data5/SELLER/Default/2020/12/AN/VT/RN/95434341/steve-jobs-book.jpg"
+      
+     },
+
+     {
+        "id": 11 ,
+        "name":"Self-Help",
+        "title":"The Power of Habit - Charles Duhigg",
+        "price": 0,
+        "category":"Free",
+        "image":"https://m.media-amazon.com/images/I/71ONWR6eXDL._AC_UF1000,1000_QL80_.jpg"
+      
+     }
+]
